@@ -24,6 +24,6 @@ You’ll be glad you did.
                 
 
 
-# Temperatue-Converter-Tool
+# Temperature-Converter-Tool
 
 This is a basic Temperature converter tool, i created it as a beginner in core JAVA.
